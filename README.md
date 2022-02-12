@@ -86,6 +86,8 @@ We are using customized FastText embedding as the pre-trained embedding model Wh
 - When ranking the models in terms of recall for happy emotion, our model outperforms all other models.
 - Providing the simplest and easily referable emotion prediction model for future researchers.
 
+### Publication
+[Emotion Analysis for Conversational Texts](https://ieeexplore.ieee.org/document/9325442)
 
 ## More references
 
