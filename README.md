@@ -28,7 +28,6 @@ We were able to obtain a well-structured data set from Microsoft through the “
 
 ## Source Code of the Model
 
-- The source code of the model : <br>  `github.com/Piruntha/Emotion-Analysis-for-Conversational-Texts`
 - The models were trained using Keras with TensorFlow backend.
 
 ## Requirements
