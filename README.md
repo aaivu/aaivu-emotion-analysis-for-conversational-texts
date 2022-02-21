@@ -31,7 +31,7 @@ We were able to obtain a well-structured data set from Microsoft through the “
 - The models were trained using Keras with TensorFlow backend.
 
 <p align="center">
-<img src="https://github.com/aaivu/aaivu-emotion-analysis-for-conversational-texts/blob/newBranch/docs/subjective_tamil-original.png" width="600">
+<img src="https://github.com/aaivu/aaivu-emotion-analysis-for-conversational-texts/blob/newBranch/docs/methodology_structure.png" width="600">
 </p>
 
 ## Requirements
