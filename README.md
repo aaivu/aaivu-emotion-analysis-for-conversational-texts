@@ -30,6 +30,10 @@ We were able to obtain a well-structured data set from Microsoft through the “
 
 - The models were trained using Keras with TensorFlow backend.
 
+<p align="center">
+<img src="https://github.com/aaivu/aaivu-emotion-analysis-for-conversational-texts/blob/newBranch/docs/subjective_tamil-original.png" width="600">
+</p>
+
 ## Requirements
 
 - Tensorflow
@@ -49,7 +53,9 @@ We are using customized FastText embedding as the pre-trained embedding model Wh
 3- Download a pre-trained word embedding and add into the same folder.   
 4- Specify the embedding file name in the baseline file.    
 5- Run the following command to run the model.   
+```
     python baseline_with_eval_With_Nltk.py -config testBaseline.config
+```
 
 ## Files Description
 
@@ -86,6 +92,8 @@ We are using customized FastText embedding as the pre-trained embedding model Wh
 - When ranking the models in terms of recall for happy emotion, our model outperforms all other models.
 - Providing the simplest and easily referable emotion prediction model for future researchers.
 
+### Publication
+[Emotion Analysis for Conversational Texts](https://ieeexplore.ieee.org/document/9325442)
 
 ## More references
 
